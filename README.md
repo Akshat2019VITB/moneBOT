@@ -1,2 +1,2 @@
 # moneBOT
-Stock Price Prediction 
+Stock Price Prediction ML model using LSTM and RNN.
